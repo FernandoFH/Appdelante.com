@@ -1,5 +1,5 @@
 
-# ¿Cuál es el contenido del curso?
+# Contenido
 - Repaso de la relación entre var y el scope - introducción a let
 - Introducción a const
 - Repaso de hoisting, declaración de funciones y funciones anónimas
